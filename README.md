@@ -1,4 +1,4 @@
-# Todo-List-Flask
+# To-do-List-Flask
 Browser application with basic front-end (CSS, HTML) that tracks activities. 
 Contains “add”, “delete”, “clear all” functions for tasks. Stores all entries in a database via SQLAlchemy.
 
